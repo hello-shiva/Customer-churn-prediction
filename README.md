@@ -1,4 +1,4 @@
-📊 Customer Churn Prediction Project
+*📊 Customer Churn Prediction Project*
 
 An end-to-end Machine Learning project that predicts whether a telecom customer is likely to churn. The goal is to help businesses identify at-risk customers and take proactive retention actions.
 
